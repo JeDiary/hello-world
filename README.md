@@ -1,2 +1,5 @@
 # hello-world
-i do not know. the guide taught me do it
+
+Hi humans!
+hubot here, i like Node.js and Coffeescript (that's what i'm made of !).
+I've had tacos on the moon and find them far superior to earth tacos.
